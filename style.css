@@ -1,0 +1,94 @@
+/*
+Theme Name: MPDSS Theme
+Author: Tom Lee
+Author URI: https://wordpress.org/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+body {
+	font-family: Open Sans;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+p {
+	font-size: 14px;
+	margin: 0;
+}
+
+div.content {
+	margin-top: 60px;
+}
+
+.home-header {
+	margin-bottom: 24px;
+} 
+
+.title-area {
+	margin: auto 0;	
+}
+
+.logo {
+	height: 100%;
+}
+
+div.card-column {
+	text-align: center;
+}
+
+div.card {
+	display: inline-block; 
+	border-radius: 5px; 
+	background-color: #F4F4F4;
+	margin-top: 16px;
+	margin-bottom: 16px; 
+}
+
+div.card-info {
+	min-height: 100px; 
+	padding-left: 8px;
+	display: block;
+	word-wrap: break-word;
+	text-align: left;
+}
+
+div.card-info h1{ 
+	margin-bottom: 0px;
+}
+
+div.card-pic {
+	background-color: white;
+	height: 100px; 
+	display: block;
+	float:left;
+	text-align: center;
+}
+
+div.card-pic img {
+	height: 100%;
+}
+
+body div.home-header {
+	
+}
+
+.top-bar {
+	background: #F44336;
+	overflow: visible;
+}
+
+.fa {
+	color: #F44336 !important;
+}
+
+footer {
+	background: #F44336;
+}
+
+footer p {
+	height: 40px;
+	color: #FFF;
+	vertical-align: middle;
+}
